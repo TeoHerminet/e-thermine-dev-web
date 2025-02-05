@@ -1,0 +1,204 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #773600c4;
+}
+
+header img {
+    height: 40px;
+}
+
+header a {
+    text-decoration: none;
+    margin-left: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.bandeauH {
+    color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    background-size: cover;
+    background-position: top;
+    background-image: url(./images/background.png);
+}
+
+.bandeauH h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.fil {
+    margin: 10px 0;
+    font-size: 0.9em;
+    text-align: center;
+}
+.fil a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.fil a:hover {
+    text-decoration: underline;
+}
+
+.cases {
+    background-color: rgba(97, 97, 97, 0.678);
+    border: 4px solid #000000;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.casesimg {
+    border: 4px solid #000000;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.casesimg img {
+    height: auto;
+    max-width: 900px;
+}
+
+.principale {
+    display: flex;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.principale .content {
+    flex: 1;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.principale .content h1 {
+    font-size: 45px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    text-align: center;
+}
+
+.principale .content h2 {
+    padding-top: 20px;
+    font-size: 35px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    text-align: center;
+}
+
+.principale .content p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #474747;
+}
+
+.principale .contentnc {
+    flex: 1;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.principale .contentnc h1 {
+    padding-top: 20px;
+    font-size: 45px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    text-align: center;
+}
+
+.principale .contentnc h2 {
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    text-align: center;
+}
+
+.principale .contentnc p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #474747;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-image: url(./Images/background.png);
+    background-position: bottom;
+}
+
+footer cite {
+    display: block;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.bouton {
+    list-style-type: none;
+    justify-content: center;
+    padding: 20px;
+    display: flex;
+    gap: 15px;
+    background-color: #dfdfdf;
+    color: rgb(0, 0, 0);
+}
+
+.menu-navigation {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.bouton a {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: 0 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.bouton a:hover {
+    background-color: rgb(0, 0, 0);
+    color: #000000;
+}
+
+.boutonRemonter {
+    list-style-type: none;
+    justify-content: center;
+    padding: 20px;
+    display: flex;
+    gap: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.boutonRemonter a {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: 0 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
