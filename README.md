@@ -15,7 +15,7 @@ Il explique son concept, ses fonctionnalités ainsi que son déroulement. Mais a
 ### 🖼️ Image
 ![Logo de CY Cergy Paris Université](images/CY_Cergy_Paris_Universite_-_Logo.png)
 
-## 👥 Auteurs
+### 👥 Auteurs
 - **Khalfoun Bijed** - Etudiant en L2 Informatique - CY Tech - Groupe D
 - **Herminet Teo** - Etudiant en L2 Informatique - CY Tech - Groupe D
 - **Sade Alexis** - Etudiant en L2 Informatique - CY Tech - Groupe D
