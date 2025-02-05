@@ -12,7 +12,7 @@ Il explique son concept, ses fonctionnalités ainsi que son déroulement. Mais a
 ### 🛠️ Technologies utilisées
 🌐 HTML / CSS
 
-### 🖼️ Image
+### 🖼️ Etablissement
 ![Logo de CY Cergy Paris Université](images/CY_Cergy_Paris_Universite_-_Logo.png)
 
 ### 👥 Auteurs
